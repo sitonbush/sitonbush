@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 This is Soyean Yoo!  I define myself a very curious person who is interested in all metters of various field: Education, Social Science, Economics, Accountings, Technologies, and Computer Science! It’s always been somehow my life mission to extend my curiousity beyond my bubble.  Also I always wish you all lie down and sleep well 😊! 
 
 <!--
 **sitonbush/sitonbush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header)
-![header](https://capsule-render.vercel.app/api?color=auto)
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
