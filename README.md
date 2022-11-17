@@ -26,6 +26,5 @@ Here are some ideas to get you started:
 </p>
 <h3 align="center">🌱 Tools 🌱</h3>
 <p>
-  <img src="https://img.shields.io/badge/IntelliJ?style=for-the-badge&logo=visual%20studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
+ 
 </p>
